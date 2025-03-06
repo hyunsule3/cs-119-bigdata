@@ -2,3 +2,10 @@
 *.csv
 *.zip
 prez_speeches
+
+*.docx
+*.pptx
+*.txt
+*.json
+*.xml
+*.html
